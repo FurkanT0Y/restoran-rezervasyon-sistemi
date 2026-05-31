@@ -1,0 +1,7 @@
+Müşteri:Furkan,Masa No:1,Siparişler:Su
+Müşteri:Ada,Masa No:1,Siparişler:Su
+Müşteri:Ata,Masa No:5,Siparişler:Su
+Müşteri:Ada,Masa No:1,Siparişler:Su, Su, Su, Su
+Müşteri:Ada,Masa No:1,Siparişler:Ekmek
+Müşteri:Ada,Masa No:1,Siparişler:Su
+Müşteri:Ata,Masa No:2,Siparişler:Su
